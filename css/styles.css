@@ -1,0 +1,414 @@
+
+
+.li1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.02em;
+    
+    color: #212121;
+    text-decoration: none;
+}
+
+.webStudio {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.192;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #2196F3;
+text-decoration: none;
+}
+
+.header {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.143;
+letter-spacing: 0.02em;
+
+color: #212121;
+text-decoration: none;
+display: flex;
+justify-content: space-between;
+}
+
+.header:hover {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.143;
+letter-spacing: 0.02em;
+
+color: #2196F3;
+}
+
+.mail {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.02em;
+    
+    color: #757575;
+    
+}
+
+.tel {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.02em;
+    
+    color: #757575;
+    
+}
+
+.mail:hover {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.02em;
+    
+    color: #2196F3;
+    
+}
+
+.tel:hover {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.02em;
+    
+    color: #2196F3;
+    
+}
+
+.eff {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.364;
+    /* or 136% */
+    
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: #2F303A;
+}
+
+.but {
+    
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 1.875;
+/* identical to box height, or 188% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #FFFFFF;
+}
+
+.sec1 {
+    background: #2F303A;
+    align-items: center;
+}
+
+h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.1875;
+    /* identical to box height */
+    
+    letter-spacing: 0.03em;
+    
+    color: #212121;
+}
+
+h3:not(.isk) {
+    text-transform: uppercase;
+}
+
+
+
+h2 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.167;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+
+
+main {
+    width: 1600px;
+}
+
+header {
+    width: 1600px;
+}
+
+footer {
+    width: 1600px;
+    background: #2F303A;
+}
+
+
+.but1 {
+    background: #F5F4FA;
+    border-radius: 4px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    /* identical to box height, or 162% */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #212121;
+}
+
+.but1:hover {
+    background: #2196F3;
+    /* shadow-middle */
+    
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.625;
+/* identical to box height, or 162% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.a1 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.714;
+/* or 171% */
+text-decoration: none;
+
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);
+
+}
+
+.WebStudio2 {
+    color: #000000;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.192;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+text-decoration: none;
+}
+
+.p6 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.714;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+}
+
+.ht {
+    color: #000000;
+}
+
+.WebS {
+    display: flex;
+    flex-direction: row;
+}
+
+.li2 {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.143;
+letter-spacing: 0.02em;
+
+color: #757575;
+text-decoration: none;
+
+}
+
+.inline {
+    display: inline;
+}
+
+.two {
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+}
+
+.s1 {
+    color: #FFFFFF;
+}
+
+.ht {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+
+.po {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+    /* identical to box height, or 188% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;
+    
+}
+
+.p1 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.714;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+
+.p5 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.1875;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #757575;
+
+}
+
+ul:not(.isk) {
+    display: flex;
+    justify-content: space-between;
+}
+
+.inline {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.li1 {
+margin-left: 50px;
+}
+
+.li2 {
+margin-left: 50px;
+}
+
+.sec1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.isk {
+    display: flex;
+    justify-content: center;
+}
+
+.but1 {
+    margin-left: 18px;
+}
+
+.p5 {
+    text-align: center;
+}
