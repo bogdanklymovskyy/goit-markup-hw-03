@@ -115,6 +115,8 @@ color: #2196F3;
     
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     background: #2F303A;
+    margin-top: 200px;
+    margin-bottom: 30px;
 }
 
 .but {
@@ -135,6 +137,7 @@ text-align: center;
 letter-spacing: 0.06em;
 
 color: #FFFFFF;
+margin-bottom: 200px;
 }
 
 .sec1 {
@@ -350,6 +353,9 @@ line-height: 1.714;
 letter-spacing: 0.03em;
 
 color: #757575;
+margin-left: 30px;
+margin-top: 10px;
+margin-bottom: 94px;
 }
 
 .p5 {
@@ -366,7 +372,8 @@ color: #757575;
 
 }
 
-ul:not(.isk) {
+ul:not(.isk,.sec3,.sec4,.ulpo){
+
     display: flex;
     justify-content: space-between;
 }
@@ -411,4 +418,43 @@ margin-left: 50px;
 
 .p5 {
     text-align: center;
+}
+
+.h31 {
+    margin-left: 30px;
+    margin-top: 94px;
+}
+
+.w {
+    margin-bottom: 50px;
+}
+
+.sec3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.img0 {
+    margin-right: 30px;
+}
+
+.sec4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.lisec4 {
+    margin-right: 30px;
+}
+
+.ulpo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.ulpoli {
+    margin-right: 30px;
 }
