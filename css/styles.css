@@ -178,6 +178,10 @@ color: #212121;
 }
 
 
+section {
+    width: 1600px;
+}
+
 main {
     width: 1600px;
 }
@@ -457,4 +461,10 @@ margin-left: 50px;
 
 .ulpoli {
     margin-right: 30px;
+}
+
+.adre {
+    display: flex;
+    flex-direction: column;
+    margin-top: 9px;
 }
