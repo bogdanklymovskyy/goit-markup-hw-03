@@ -115,8 +115,8 @@ color: #2196F3;
     
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     background: #2F303A;
-    margin-top: 200px;
-    margin-bottom: 30px;
+    padding-top: 200px;
+    padding-bottom: 30px;
 }
 
 .but {
@@ -137,12 +137,12 @@ text-align: center;
 letter-spacing: 0.06em;
 
 color: #FFFFFF;
-margin-bottom: 200px;
 }
 
 .sec1 {
     background: #2F303A;
     align-items: center;
+    padding-bottom: 200px;
 }
 
 h3 {
@@ -178,20 +178,9 @@ color: #212121;
 }
 
 
-section {
-    width: 1600px;
-}
 
-main {
-    width: 1600px;
-}
-
-header {
-    width: 1600px;
-}
 
 footer {
-    width: 1600px;
     background: #2F303A;
 }
 
@@ -357,9 +346,9 @@ line-height: 1.714;
 letter-spacing: 0.03em;
 
 color: #757575;
-margin-left: 30px;
-margin-top: 10px;
-margin-bottom: 94px;
+padding-left: 30px;
+padding-top: 10px;
+padding-bottom: 94px;
 }
 
 .p5 {
@@ -398,11 +387,11 @@ header {
 }
 
 .li1 {
-margin-left: 50px;
+padding-left: 50px;
 }
 
 .li2 {
-margin-left: 50px;
+padding-left: 50px;
 }
 
 .sec1 {
@@ -417,7 +406,7 @@ margin-left: 50px;
 }
 
 .but1 {
-    margin-left: 18px;
+    padding-left: 18px;
 }
 
 .p5 {
@@ -425,12 +414,12 @@ margin-left: 50px;
 }
 
 .h31 {
-    margin-left: 30px;
-    margin-top: 94px;
+    padding-left: 30px;
+    padding-top: 94px;
 }
 
 .w {
-    margin-bottom: 50px;
+    padding-bottom: 50px;
 }
 
 .sec3 {
@@ -440,7 +429,7 @@ margin-left: 50px;
 }
 
 .img0 {
-    margin-right: 30px;
+    padding-right: 30px;
 }
 
 .sec4 {
@@ -450,7 +439,7 @@ margin-left: 50px;
 }
 
 .lisec4 {
-    margin-right: 30px;
+    padding-right: 30px;
 }
 
 .ulpo {
@@ -460,11 +449,20 @@ margin-left: 50px;
 }
 
 .ulpoli {
-    margin-right: 30px;
+    padding-right: 30px;
 }
 
 .adre {
     display: flex;
     flex-direction: column;
-    margin-top: 9px;
+    padding-top: 9px;
+}
+
+
+
+.width {
+    width: 1200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
 }
